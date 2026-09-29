@@ -1,5 +1,3 @@
-# EU-AI-Act-Inventory-Classification
-EU-AI-Act-Inventory-Classification
 # EU AI Act System Inventory & Risk Classification Engine
 
 > **A standardized enterprise registry and classification methodology mapping corporate AI deployments to Regulation (EU) 2024/1689 (EU AI Act).**
