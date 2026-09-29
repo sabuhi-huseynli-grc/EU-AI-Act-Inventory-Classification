@@ -1,5 +1,5 @@
 # EU AI Act System Inventory & Risk Classification Engine
-
+This artifact serves as the central log that every organization operating under the EU AI Act must maintain to track AI deployments, identify roles (Deployer vs. Provider), and verify regulatory compliance.
 > **A standardized enterprise registry and classification methodology mapping corporate AI deployments to Regulation (EU) 2024/1689 (EU AI Act).**
 
 ---
