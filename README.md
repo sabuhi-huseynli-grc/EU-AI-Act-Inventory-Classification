@@ -34,7 +34,7 @@ This repository provides an enterprise-ready **AI System Inventory Register** an
 
 ---
 
-## 👤 Author Profile
+## 👤 Author Profile https://www.linkedin.com/in/sabuhi-huseynov-cisa-59524771/?isSelfProfile=true
 **Senior Information Security & GRC Specialist**  
 *CISA | Cybersecurity Risk, Compliance, and Audit Practitioner*
 * Expertise in EU AI Act Compliance, Third-Party Risk Management (TPRM), and Enterprise Information Governance.
